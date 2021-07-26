@@ -4,7 +4,7 @@
 
 ### Some of my current projects
 
--   Working on my site [https://kinetictactic.ml](https://kinetictactic.ml)
+-   Working on my site 
 -   Random stuff
 -   ¯\\\_(ツ)\_/¯
 
