@@ -1,10 +1,10 @@
 ### Hi! I am INFxRYAN 
 
-## I am a 9th grader, and coding is one of my hobbies!
+## I am a 10th grader, and coding is one of my hobbies!
 
 ### Some of my current projects
 
--   Working on my site 
+-   Editing my site 
 -   Random stuff
 -   ¯\\\_(ツ)\_/¯
 
@@ -16,6 +16,4 @@
 
 [![INFxRYAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=INFxRYAN&show_icons=true&theme=dark)](https://github.com/INFxRYAN)
 
-### Connect with me
 
-[Discord](https://discord.com/users/758913340717662210)
